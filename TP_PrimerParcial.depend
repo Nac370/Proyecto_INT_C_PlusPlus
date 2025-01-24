@@ -1,0 +1,203 @@
+# depslib dependency file v1.0
+1696503773 source:e:\nacho\descargas\utn\tup\principal\lab 2\tp primer parcial\tp_primerparcial\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"funcionesGLOBALES.h"
+	"clsFecha.h"
+	"clsDeportes.h"
+	"clsArchivoDeportes.h"
+	"menuDeportes.h"
+	"clsJugadores.h"
+	"clsArchivoJugadores.h"
+	"menuJugadores.h"
+	"reportes.h"
+	"clsConfiguracion.h"
+	"menuConfiguracion.h"
+
+1696482475 e:\nacho\descargas\utn\tup\principal\lab 2\tp primer parcial\tp_primerparcial\clsfecha.h
+
+1696488564 e:\nacho\descargas\utn\tup\principal\lab 2\tp primer parcial\tp_primerparcial\clsjugadores.h
+
+1696440549 e:\nacho\descargas\utn\tup\principal\lab 2\tp primer parcial\tp_primerparcial\funcionesglobales.h
+
+1696444136 e:\nacho\descargas\utn\tup\principal\lab 2\tp primer parcial\tp_primerparcial\fechaactual.h
+
+1696444136 e:\nacho\descargas\utn\tup\principal\lab 2\tp primer parcial\tp_primerparcial\clsfechaactual.h
+
+1696502977 e:\nacho\descargas\utn\tup\principal\lab 2\tp primer parcial\tp_primerparcial\clsarchivojugadores.h
+
+1696482475 e:\nacho\descargas\utn\tup\principal\lab 2\tp primer parcial\tp_primerparcial\menujugadores.h
+
+1696483512 e:\nacho\descargas\utn\tup\principal\lab 2\tp primer parcial\tp_primerparcial\clsdeportes.h
+
+1696503352 e:\nacho\descargas\utn\tup\principal\lab 2\tp primer parcial\tp_primerparcial\clsarchivodeportes.h
+
+1696501768 e:\nacho\descargas\utn\tup\principal\lab 2\tp primer parcial\tp_primerparcial\menudeportes.h
+
+1696499278 e:\nacho\descargas\utn\tup\principal\lab 2\tp primer parcial\tp_primerparcial\menureportes.h
+
+1696504519 e:\nacho\descargas\utn\tup\principal\lab 2\tp primer parcial\tp_primerparcial\clsconfiguracion.h
+
+1696504519 e:\nacho\descargas\utn\tup\principal\lab 2\tp primer parcial\tp_primerparcial\menuconfiguracion.h
+
+1696499278 e:\nacho\descargas\utn\tup\principal\lab 2\tp primer parcial\tp_primerparcial\reportes.h
+
+1696503773 source:e:\nacho\descargas\utn\tup\principal\lab 2\backup tp\tp_primerparcial\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"funcionesGLOBALES.h"
+	"clsFecha.h"
+	"clsDeportes.h"
+	"clsArchivoDeportes.h"
+	"menuDeportes.h"
+	"clsJugadores.h"
+	"clsArchivoJugadores.h"
+	"menuJugadores.h"
+	"reportes.h"
+	"clsConfiguracion.h"
+	"menuConfiguracion.h"
+
+1696440549 e:\nacho\descargas\utn\tup\principal\lab 2\backup tp\tp_primerparcial\funcionesglobales.h
+
+1696482475 e:\nacho\descargas\utn\tup\principal\lab 2\backup tp\tp_primerparcial\clsfecha.h
+
+1696483512 e:\nacho\descargas\utn\tup\principal\lab 2\backup tp\tp_primerparcial\clsdeportes.h
+
+1696503352 e:\nacho\descargas\utn\tup\principal\lab 2\backup tp\tp_primerparcial\clsarchivodeportes.h
+
+1696501768 e:\nacho\descargas\utn\tup\principal\lab 2\backup tp\tp_primerparcial\menudeportes.h
+
+1696510918 e:\nacho\descargas\utn\tup\principal\lab 2\backup tp\tp_primerparcial\clsjugadores.h
+
+1696507719 e:\nacho\descargas\utn\tup\principal\lab 2\backup tp\tp_primerparcial\clsarchivojugadores.h
+
+1696482475 e:\nacho\descargas\utn\tup\principal\lab 2\backup tp\tp_primerparcial\menujugadores.h
+
+1696513994 e:\nacho\descargas\utn\tup\principal\lab 2\backup tp\tp_primerparcial\reportes.h
+
+1696512125 e:\nacho\descargas\utn\tup\principal\lab 2\backup tp\tp_primerparcial\clsconfiguracion.h
+
+1696504519 e:\nacho\descargas\utn\tup\principal\lab 2\backup tp\tp_primerparcial\menuconfiguracion.h
+
+1699480479 source:e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"funcionesGLOBALES.h"
+	"clsFecha.h"
+	"clsTiposDeporte.h"
+	"clsArchivoTiposDeporte.h"
+	"menuTiposDeporte.h"
+	"clsDeportes.h"
+	"clsArchivoDeportes.h"
+	"menuDeportes.h"
+	"clsEquipos.h"
+	"clsArchivoEquipos.h"
+	"menuEquipos.h"
+	"clsJugadores.h"
+	"clsArchivoJugadores.h"
+	"menuJugadores.h"
+	"reportes.h"
+	"clsConfiguracion.h"
+	"menuConfiguracion.h"
+
+1696440549 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\funcionesglobales.h
+
+1696482475 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\clsfecha.h
+
+1699483778 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\clsdeportes.h
+
+1699495020 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\clsarchivodeportes.h
+
+1699480512 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\menudeportes.h
+
+1699528193 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\clsjugadores.h
+
+1699494416 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\clsarchivojugadores.h
+
+1699480512 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\menujugadores.h
+
+1699534879 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\reportes.h
+
+1699490828 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\clsconfiguracion.h
+
+1699490910 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\menuconfiguracion.h
+
+1699389353 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\clsequipos.h
+
+1699495089 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\clsarchivoequipos.h
+
+1699480512 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\menuequipos.h
+
+1699486514 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\clstiposdeporte.h
+
+1699494983 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\clsarchivotiposdeporte.h
+
+1699480512 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\tp_primerparcial\menutiposdeporte.h
+
+1699480479 source:e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"funcionesGLOBALES.h"
+	"clsFecha.h"
+	"clsTiposDeporte.h"
+	"clsArchivoTiposDeporte.h"
+	"menuTiposDeporte.h"
+	"clsDeportes.h"
+	"clsArchivoDeportes.h"
+	"menuDeportes.h"
+	"clsEquipos.h"
+	"clsArchivoEquipos.h"
+	"menuEquipos.h"
+	"clsJugadores.h"
+	"clsArchivoJugadores.h"
+	"menuJugadores.h"
+	"reportes.h"
+	"clsConfiguracion.h"
+	"menuConfiguracion.h"
+
+1696440549 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\funcionesglobales.h
+
+1696482475 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\clsfecha.h
+
+1699486514 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\clstiposdeporte.h
+
+1699494983 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\clsarchivotiposdeporte.h
+
+1699480512 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\menutiposdeporte.h
+
+1699483778 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\clsdeportes.h
+
+1699495020 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\clsarchivodeportes.h
+
+1699480512 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\menudeportes.h
+
+1699389353 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\clsequipos.h
+
+1699495089 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\clsarchivoequipos.h
+
+1699480512 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\menuequipos.h
+
+1699528193 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\clsjugadores.h
+
+1699494416 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\clsarchivojugadores.h
+
+1699480512 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\menujugadores.h
+
+1699534879 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\reportes.h
+
+1699490828 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\clsconfiguracion.h
+
+1699490910 e:\nacho\descargas\utn\tup\principal\lab 2\tp segundo parcial 2°parte\backup 4, segundo parcial\tp_primerparcial\menuconfiguracion.h
+
